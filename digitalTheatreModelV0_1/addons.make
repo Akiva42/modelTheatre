@@ -1,0 +1,6 @@
+ofxAssimpModelLoader
+ofxGameCamera
+ofxGizmo
+ofxGui
+ofxOsc
+ofxXmlSettings
